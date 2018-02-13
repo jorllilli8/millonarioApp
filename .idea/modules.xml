@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://C:\Users\jordi\AndroidStudioProjects\millonarioApp\Millonario.iml" filepath="C:\Users\jordi\AndroidStudioProjects\millonarioApp\Millonario.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\jordi\AndroidStudioProjects\millonarioApp\app\app.iml" filepath="C:\Users\jordi\AndroidStudioProjects\millonarioApp\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/millonarioApp.iml" filepath="$PROJECT_DIR$/millonarioApp.iml" />
     </modules>
   </component>

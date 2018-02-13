@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Millonario</string>
+    <string name="text_nombre">Nombre</string>
+    <string name="edit_nombre">Introducir Nombre</string>
+    <string name="text_Aydas">Numero de ayudas en el juego</string>
+    <string name="text_amigo">Nombre de amigo</string>
+    <string name="edit_amigo">Introducir nombre de amigo</string>
+    <string name="add_amigo">Agregar amigo</string>
 </resources>
